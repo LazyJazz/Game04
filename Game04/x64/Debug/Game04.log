@@ -1,0 +1,101 @@
+﻿  main.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\socketlib.h(6): warning C4005: “FD_SETSIZE”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(57): note: 参见“FD_SETSIZE”的前一个定义
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(72): warning C4800: “SHORT”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(150): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(151): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(119): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(216): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(254): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(253): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(273): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(315): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(345): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(403): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(402): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  World.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\socketlib.h(6): warning C4005: “FD_SETSIZE”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(57): note: 参见“FD_SETSIZE”的前一个定义
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(322): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(336): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(334): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\world.cpp(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  SocketLib.cpp
+  Partical.cpp
+  Func_text.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\func_text.cpp(14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\func_text.cpp(15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\func_text.cpp(64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\func_text.cpp(82): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Draw.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(94): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(102): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(109): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(149): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(151): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(183): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(192): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(193): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(215): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(234): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(260): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(262): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(354): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(356): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(357): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(374): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(397): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\draw.cpp(422): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Control.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\control.cpp(6): warning C4800: “SHORT”: 将值强制为布尔值“true”或“false”(性能警告)
+  API.cpp
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(72): warning C4800: “SHORT”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(150): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(151): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\api.h(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  正在生成代码...
+c:\users\zijia\desktop\game04\game04-v0.0.4\game04\main.cpp(333): warning C4700: 使用了未初始化的局部变量“lastupdate”
+  LINK : 没有找到 C:\Users\zijia\Desktop\Game04\Game04-v0.0.4\x64\Debug\Game04.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Game04.vcxproj -> C:\Users\zijia\Desktop\Game04\Game04-v0.0.4\x64\Debug\Game04.exe
+  Game04.vcxproj -> C:\Users\zijia\Desktop\Game04\Game04-v0.0.4\x64\Debug\Game04.pdb (Full PDB)
