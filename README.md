@@ -1,5 +1,6 @@
 # Game04
 First Blank Input: Username
+
 Second Blank Input: Server IP
 
 ## Create a Server
